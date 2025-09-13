@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "rules": [
+    {
+		"domain_keyword": [
+			"wallhaven",
+			"bygcloud",
+			"broadcom",
+			"rme-audio",
+			"qichiyu",
+			"土豆云"
+		],
+	    	"domain_suffix":[
+			"split.io"
+		],
+	    	"ip_cidr": [
+			"104.18.37.212/32"
+		]
+    }
+  ]
+}

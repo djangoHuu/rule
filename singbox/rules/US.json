@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "rules": [
+    {
+	    "domain_suffix": [
+    		"docker.com",
+        "openai.azure.com",
+        "ai.azure.com",
+        "pirateship.com",
+        "xinfinite.net",
+        "proof.com",
+        "anytimemailbox.com",
+        "smarty.com",
+        "bwh81.net",
+        "axxi.site",
+        "payssion.com",
+        "abcproxy.com",
+        "pstmn.io",
+        "qichiyu.com",
+        "frepai.com",
+        "github.com",
+        "jsdelivr.net",
+        "picpick.app",
+        "githubusercontent.com",
+        "maxmind.com",
+        "asu.edu",
+        "v2rayssr.com",
+        "vodafone.de",
+        "splashtop.com",
+        "uptodown.com",
+        "711bank.com",
+        "ctm.net",
+        "bewildcard.com",
+        "c.gle",
+        "m-team.cc",
+        "ucdavis.edu",
+        "bingocard.com",
+        "bybit.com",
+        "wise.com",
+        "itangtalk.com"
+	    ]
+    }
+  ]
+}
