@@ -2,10 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
-        "yzhums.com",
-        "windsurf.com",
-        "m-team.cc",
+      "domain_suffix": [        
 	    "bybit.com",
 	    "bybit-aws.com"
       ]
