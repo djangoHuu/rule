@@ -136,7 +136,7 @@ DOMAIN-SUFFIX,stocks-sparkline.apple.com
 DOMAIN-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,store.apple.com.edgekey.net
 DOMAIN-SUFFIX,store.apple.com
-DOMAIN-SIIX,store.storeimages.apple.com.akadns.net
+DOMAIN-SUFFIX,store.storeimages.apple.com.akadns.net
 DOMAIN-SUFFIX,store.storeimages.cdn-apple.com
 DOMAIN-SUFFIX,support-china.apple-support.akadns.net
 DOMAIN-SUFFIX,support.apple.com
