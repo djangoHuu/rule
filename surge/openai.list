@@ -1,0 +1,27 @@
+# Surge RULE-SET: OpenAI / ChatGPT
+# 由 MetaCubeX/meta-rules-dat geosite classical openai.list 转换而来
+# 源: https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/classical/openai.list
+# 生成日期: 2026-06-27
+# 规则数: 20 (DOMAIN x7 / DOMAIN-SUFFIX x12 / DOMAIN-WILDCARD x1)
+# 说明: 原文件的 DOMAIN-REGEX 为 Clash 专有，已改写为 Surge 的 DOMAIN-WILDCARD
+
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicom.imgix.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,crixet.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+DOMAIN-WILDCARD,chatgpt-async-webps-prod-*.webpubsub.azure.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,browser-intake-datadoghq.com
