@@ -3,8 +3,8 @@
 # REPO: https://github.com/MetaCubeX/meta-rules-dat
 # UPDATED: 2025-06-06 09:20:01
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 6
-# TOTAL: 8
+# DOMAIN-SUFFIX: 7
+# TOTAL: 9
 DOMAIN,cdn.usefathom.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,anthropic.com
